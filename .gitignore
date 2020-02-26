@@ -1,0 +1,6 @@
+*.class
+!test.class
+/conf
+target/
+src/*.scala
+src/**/*.scala
